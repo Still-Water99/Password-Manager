@@ -4,10 +4,10 @@ A simple, command line password manager written in python.
 
 ## features
 
--Encrypted Vault Storage
--SQLite backend
--Command Line Interface
--Argon2 key derivation
+- Encrypted Vault Storage
+- SQLite backend
+- Command Line Interface
+- Argon2 key derivation
 
 ## Setup
 
@@ -23,3 +23,4 @@ pyinstaller --onefile --name PasswordManager main.py
 ## Security Warning
 This project is a **learning project**.
 Do not store real passwords.
+
